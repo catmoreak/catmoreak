@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sujnan and I'm a tech savy lad pursuing B.Tech from N.M.A.M Institute of Technology</h2>
+<h2 align="left">Hi 👋</h2>
 
 ###
 
