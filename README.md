@@ -10,6 +10,12 @@
 
 ---
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=catmoreak&style=flat&color=blue)
+
+---
+
 ## 💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
